@@ -58,7 +58,7 @@ public Properties prop;
 		
 		Assert.assertTrue(driver.findElement(By.linkText("Edit your account information")).isDisplayed());
 		
-	}
+	}//gubla rambabbu
 
 	@Test
 	public void loginWithInvalidCredentials() {

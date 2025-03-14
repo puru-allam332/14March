@@ -41,7 +41,7 @@ try {
 } catch (IOException e) {
 	// TODO Auto-generated catch block
 	e.printStackTrace();
-}
+}//
 reports.setSystemInfo("Username", prop.getProperty("email"));
 	String str=context.getName();
 	System.out.println("onStart onStart  "+str);
