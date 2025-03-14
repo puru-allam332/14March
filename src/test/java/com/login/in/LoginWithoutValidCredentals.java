@@ -43,6 +43,7 @@ public Properties prop;
 		driver.manage().window().maximize();
 		String sss=prop.getProperty("url");
 		driver.get("http://tutorialsninja.com/demo/");
+System.out.println("this line no use");
 		
 		
 	}
